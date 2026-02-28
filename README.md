@@ -29,8 +29,30 @@ A comprehensive Google Sheets template for small business owners, freelancers, a
 
 ---
 
-### 2. Personal Finance Tracker ($12-18)
-**Status:** 🔜 Coming Soon
+### 2. Personal Finance Tracker ($15-18)
+**Status:** ✅ Complete
+
+A comprehensive Google Sheets template for individuals and families.
+
+**Features:**
+- 📊 Dashboard with financial snapshot
+- 💰 Income Tracker
+- 💸 Expense Tracker with Need/Want categorization
+- 📋 Budget Planner (50/30/20 rule)
+- 💳 Debt Payoff Calculator (Snowball/Avalanche)
+- 🎯 Savings Goals Tracker
+- 📅 Bill Tracker with reminders
+- 💵 Net Worth Calculator
+- 📺 Subscription Tracker with cancel recommendations
+- ⚙️ Customizable Settings
+- 📖 Full Instructions
+
+**Target Revenue:** $3,000/month
+
+**Files:**
+- `/personal-finance-tracker/` - All template files
+- `FORMULAS.md` - Complete formula reference
+- `README.md` - Product documentation
 
 ---
 
