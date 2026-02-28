@@ -1,0 +1,69 @@
+INCOME TRACKER, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Track all money coming in. Every dollar counts!, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Date, Source, Description, Category, Amount, Account, Recurring?, Month, Notes
+, , , , , , , , , , ,
+1/1/2025, ABC Company, Salary, Salary, 4500, Checking, Yes, January, Bi-weekly pay
+1/15/2025, ABC Company, Salary, Salary, 4500, Checking, Yes, January, Bi-weekly pay
+1/20/2025, Etsy Shop, Sales, Side Hustle, 350, PayPal, No, January, Digital products
+1/25/2025, Dividends, Apple Stock, Investments, 125, Investment, Yes, January, Quarterly dividend
+2/1/2025, ABC Company, Salary, Salary, 4500, Checking, Yes, February, Bi-weekly pay
+2/15/2025, ABC Company, Salary, Salary, 4500, Checking, Yes, February, Bi-weekly pay
+, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+SUMMARY BY CATEGORY, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Category, Total Amount, Count, % of Total, , , , , , , 
+Salary, [SUMIF], [COUNTIF], [%], , , , , , , 
+Side Hustle, [SUMIF], [COUNTIF], [%], , , , , , , 
+Freelance, [SUMIF], [COUNTIF], [%], , , , , , , 
+Investments, [SUMIF], [COUNTIF], [%], , , , , , , 
+Rental Income, [SUMIF], [COUNTIF], [%], , , , , , , 
+Gifts, [SUMIF], [COUNTIF], [%], , , , , , , 
+Refunds, [SUMIF], [COUNTIF], [%], , , , , , , 
+Other, [SUMIF], [COUNTIF], [%], , , , , , , 
+, , , , , , , , , , ,
+TOTAL INCOME, [SUM], [COUNT], 100%, , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+SUMMARY BY MONTH, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Month, Total Income, Count, Average, , , , , , , 
+January, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+February, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+March, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+April, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+May, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+June, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+July, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+August, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+September, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+October, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+November, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+December, [SUMIF], [COUNTIF], [Formula], , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+RECURRING INCOME, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Source, Monthly Amount, Annual Amount, , , , , , , , 
+[Source 1], [SUMIF], [Formula], , , , , , , , 
+[Source 2], [SUMIF], [Formula], , , , , , , , 
+, , , , , , , , , , ,
+TOTAL RECURRING/MONTH, [Sum], [Sum], , , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+CATEGORIES: Salary, Side Hustle, Freelance, Investments, Rental Income, Gifts, Refunds, Other, , , , ,
+RECURRING: Yes, No, , , , , , , , , ,

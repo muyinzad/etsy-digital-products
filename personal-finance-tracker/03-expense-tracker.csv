@@ -1,0 +1,75 @@
+EXPENSE TRACKER, , , , , , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+Log every expense. Awareness is the first step to control., , , , , , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+Date, Merchant, Description, Category, Amount, Payment Method, Account, Need/Want, Month, Notes
+, , , , , , , , , , , ,
+1/2/2025, Whole Foods, Groceries, Food, 156.32, Credit Card, Chase, Need, January, Weekly groceries
+1/3/2025, Shell, Gas, Transportation, 45.00, Debit Card, Checking, Need, January, Fill up
+1/5/2025, Netflix, Subscription, Subscriptions, 15.99, Credit Card, Chase, Want, January, Monthly
+1/7/2025, Starbucks, Coffee, Food, 6.50, Credit Card, Chase, Want, January, Latte
+1/10/2025, Amazon, Household items, Shopping, 89.99, Credit Card, Chase, Need, January, Cleaning supplies
+1/12/2025, Gym, Membership, Healthcare, 50.00, Debit Card, Checking, Want, January, Monthly fee
+1/15/2025, Restaurant, Dinner out, Food, 75.00, Credit Card, Chase, Want, January, Date night
+1/18/2025, Electric Company, Electric bill, Utilities, 120.00, Auto-pay, Checking, Need, January, Monthly
+, , , , , , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+SUMMARY BY CATEGORY, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+Category, Total Spent, Count, Budget, Difference, % of Budget, , , , , , ,
+Housing, [SUMIF], [COUNTIF], $1,500, [Formula], [Formula]%, , , , , , ,
+Food, [SUMIF], [COUNTIF], $600, [Formula], [Formula]%, , , , , , ,
+Transportation, [SUMIF], [COUNTIF], $400, [Formula], [Formula]%, , , , , , ,
+Utilities, [SUMIF], [COUNTIF], $200, [Formula], [Formula]%, , , , , , ,
+Healthcare, [SUMIF], [COUNTIF], $100, [Formula], [Formula]%, , , , , , ,
+Entertainment, [SUMIF], [COUNTIF], $200, [Formula], [Formula]%, , , , , , ,
+Shopping, [SUMIF], [COUNTIF], $150, [Formula], [Formula]%, , , , , , ,
+Subscriptions, [SUMIF], [COUNTIF], $100, [Formula], [Formula]%, , , , , , ,
+Personal Care, [SUMIF], [COUNTIF], $75, [Formula], [Formula]%, , , , , , ,
+Education, [SUMIF], [COUNTIF], $50, [Formula], [Formula]%, , , , , , ,
+Debt Payments, [SUMIF], [COUNTIF], $500, [Formula], [Formula]%, , , , , , ,
+Savings, [SUMIF], [COUNTIF], $500, [Formula], [Formula]%, , , , , , ,
+Other, [SUMIF], [COUNTIF], $100, [Formula], [Formula]%, , , , , , ,
+, , , , , , , , , , , ,
+TOTAL, [SUM], [COUNT], $4,475, [Formula], , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+SUMMARY BY MONTH, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+Month, Total Spent, Transactions, Biggest Category, , , , , , , , ,
+January, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+February, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+March, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+April, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+May, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+June, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+July, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+August, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+September, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+October, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+November, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+December, [SUMIF], [COUNTIF], [Formula], , , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+NEED VS WANT ANALYSIS, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+Type, Total Spent, Count, % of Expenses, , , , , , , , ,
+Needs, [SUMIF], [COUNTIF], [Formula]%, , , , , , , , ,
+Wants, [SUMIF], [COUNTIF], [Formula]%, , , , , , , , ,
+, , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , ,
+CATEGORIES: Housing, Food, Transportation, Utilities, Healthcare, Entertainment, Shopping, Subscriptions, Personal Care, Education, Debt Payments, Savings, Gifts, Travel, Other
+, , , , , , , , , , , ,
+NEED/WANT: Need, Want, , , , , , , , , , ,
