@@ -1,0 +1,100 @@
+CASH FLOW PROJECTION, , , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+Plan your cash flow for the next 12 months. Identify gaps before they happen., , , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+STARTING POSITION, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+Current Bank Balance:, [Enter Amount], , , , , , , , , , , , , , ,
+Outstanding Receivables:, [Formula from Income Tracker - Pending], , , , , , , , , , , , , , ,
+Outstanding Payables:, [Enter Amount], , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+Net Cash Position:, [Formula], , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+12-MONTH CASH FLOW FORECAST, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+, January, February, March, April, May, June, July, August, September, October, November, December, TOTAL
+, , , , , , , , , , , , , ,
+OPENING BALANCE, [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], 
+, , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+CASH IN (Projected Income), , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+Retainer Income, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Project Income, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Product Sales, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Other Income, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+, , , , , , , , , , , , , ,
+TOTAL CASH IN, [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM]
+, , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+CASH OUT (Projected Expenses), , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+Software/Subscriptions, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Marketing/Advertising, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Contractors/Freelancers, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Office Supplies, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Insurance, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Utilities, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Rent/Office, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Travel, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Equipment, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Professional Services, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Taxes (Estimated), [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Owner Draw, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+Other Expenses, [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [Enter], [SUM]
+, , , , , , , , , , , , , ,
+TOTAL CASH OUT, [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM], [SUM]
+, , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+NET CASH FLOW, [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [SUM]
+, , , , , , , , , , , , , ,
+CLOSING BALANCE, [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], [Formula], 
+, , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+CASH FLOW STATUS INDICATOR, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+, January, February, March, April, May, June, July, August, September, October, November, December, 
+Status, [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], [Conditional], 
+, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, Positive/Negative, 
+, , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+SCENARIO ANALYSIS, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+What if income increases by 10%?, , , , , , , , , , , , , , , ,
+Year-End Balance:, [Formula], , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+What if expenses decrease by 10%?, , , , , , , , , , , , , , , ,
+Year-End Balance:, [Formula], , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+What if 1 month has no income?, , , , , , , , , , , , , , , ,
+Worst Month Impact:, [Formula], , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+CASH FLOW TIPS, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , , , , , , ,
+✓ Update projections monthly based on actuals, , , , , , , , , , , , , , , ,
+✓ Build 3-month emergency fund (3 × monthly expenses), , , , , , , , , , , , , , , ,
+✓ Identify seasonal patterns and plan accordingly, , , , , , , , , , , , , , , ,
+✓ Review and adjust quarterly, , , , , , , , , , , , , , , ,
+✓ Flag months with negative cash flow early, , , , , , , , , , , , , , , ,
+, , , , , , , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

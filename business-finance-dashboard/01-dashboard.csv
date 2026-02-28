@@ -1,0 +1,74 @@
+, BUSINESS FINANCE DASHBOARD, , , , , ,
+, , , , , , ,
+BUSINESS NAME:, [Your Business Name], , , , , ,
+Report Period:, January 2025 - December 2025, , , , , ,
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+KEY METRICS, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+, THIS MONTH, , YTD, , , 
+, , , , , , ,
+Total Income, [Formula], , [Formula], , , 
+Total Expenses, [Formula], , [Formula], , , 
+Net Profit, [Formula], , [Formula], , , 
+Profit Margin, [Formula]%, , [Formula]%, , , 
+, , , , , , ,
+Open Invoices, [Formula], , [Formula], , , 
+Cash on Hand, [Formula], , , , , 
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+INCOME BY CATEGORY, , , , TOP EXPENSE CATEGORIES, , 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+Category, Amount, %, , Category, Amount, %
+[Category 1], [Formula], [Formula]%, , [Category 1], [Formula], [Formula]%
+[Category 2], [Formula], [Formula]%, , [Category 2], [Formula], [Formula]%
+[Category 3], [Formula], [Formula]%, , [Category 3], [Formula], [Formula]%
+[Category 4], [Formula], [Formula]%, , [Category 4], [Formula], [Formula]%
+[Category 5], [Formula], [Formula]%, , [Category 5], [Formula], [Formula]%
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+MONTHLY TREND, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+Month, Income, Expenses, Profit, , , 
+January, [Formula], [Formula], [Formula], , , 
+February, [Formula], [Formula], [Formula], , , 
+March, [Formula], [Formula], [Formula], , , 
+April, [Formula], [Formula], [Formula], , , 
+May, [Formula], [Formula], [Formula], , , 
+June, [Formula], [Formula], [Formula], , , 
+July, [Formula], [Formula], [Formula], , , 
+August, [Formula], [Formula], [Formula], , , 
+September, [Formula], [Formula], [Formula], , , 
+October, [Formula], [Formula], [Formula], , , 
+November, [Formula], [Formula], [Formula], , , 
+December, [Formula], [Formula], [Formula], , , 
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+CASH FLOW STATUS, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+Next 30 Days, , , , , , 
+Expected Income, [Formula], , , , , 
+Expected Expenses, [Formula], , , , , 
+Projected Cash Flow, [Formula], , , , , 
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+QUICK ACTIONS, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+→ Add Income: Go to Income Tracker tab, , , , , , 
+→ Add Expense: Go to Expense Tracker tab, , , , , , 
+→ Create Invoice: Go to Invoice Generator tab, , , , , , 
+→ View Tax Deductions: Go to Tax Deductions tab, , , , , , 
+, , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , ,
+Last Updated: [Auto-date formula], , , , , , 

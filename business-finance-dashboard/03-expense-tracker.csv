@@ -1,0 +1,78 @@
+EXPENSE TRACKER, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Track all business expenses here. Mark tax-deductible items for easy tax prep., , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Date, Vendor/Store, Description, Category, Amount, Payment Method, Tax Deductible, Receipt?, Month, Reimbursable?, Notes
+, , , , , , , , , , ,
+1/5/2025, Adobe, Creative Cloud Subscription, Software, 54.99, Credit Card, Yes, Yes, January, No, Monthly subscription
+1/10/2025, Office Depot, Office Supplies, Office Supplies, 125.50, Debit Card, Yes, Yes, January, No, Paper, pens, folders
+1/15/2025, Google, Google Workspace, Software, 12, Credit Card, Yes, Yes, January, No, Email hosting
+1/20/2025, Shell, Gas, Travel, 45.00, Credit Card, Yes, Yes, January, No, Client meeting
+1/25/2025, Starbucks, Client Meeting, Meals, 32.50, Credit Card, Yes, Yes, January, No, Coffee with ABC Company
+2/1/2025, Amazon, Home Office Equipment, Equipment, 299.99, Credit Card, Yes, Yes, February, No, Standing desk converter
+2/5/2025, Fiverr, Freelance Help, Contractors, 150, PayPal, Yes, Yes, February, No, Logo variations
+, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+SUMMARY BY CATEGORY, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Category, Total Amount, Transactions, % of Total, Tax Deductible Amount, , , , , , 
+Software, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Office Supplies, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Travel, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Meals, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Equipment, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Contractors, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Marketing, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Insurance, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Utilities, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Rent, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Professional Services, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Education, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+Other, [SUMIF], [COUNTIF], [%], [SUMIFS], , , , , , 
+, , , , , , , , , , ,
+TOTAL EXPENSES, [SUM], [COUNT], 100%, [SUMIFS], , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+SUMMARY BY MONTH, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Month, Total Expenses, Transactions, Tax Deductible, , , , , , , 
+January, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+February, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+March, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+April, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+May, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+June, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+July, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+August, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+September, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+October, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+November, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+December, [SUMIF], [COUNTIF], [SUMIFS], , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+TAX DEDUCTION SUMMARY, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+, Total Tax Deductible Expenses, [SUMIFS Formula], , , , , , , , 
+, Total Non-Deductible Expenses, [SUMIFS Formula], , , , , , , , 
+, Percentage Deductible, [Formula]%, , , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+CATEGORIES: Software, Office Supplies, Travel, Meals, Equipment, Contractors, Marketing, Insurance, Utilities, Rent, Professional Services, Education, Banking Fees, Other
+, , , , , , , , , , ,
+TAX DEDUCTIBLE: Yes, No
+, , , , , , , , , , ,
+RECEIPT?: Yes, No, Digital
+, , , , , , , , , , ,
+REIMBURSABLE?: Yes, No

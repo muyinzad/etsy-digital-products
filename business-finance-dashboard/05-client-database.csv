@@ -1,0 +1,63 @@
+CLIENT DATABASE, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Store all client information here. Use with Invoice Generator for auto-fill., , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Client Name, Contact Person, Email, Phone, Address, City, State/Province, ZIP/Postal Code, Country, Payment Terms, Notes
+, , , , , , , , , , ,
+ABC Company, John Smith, john@abccompany.com, (555) 123-4567, 123 Main Street, New York, NY, 10001, USA, Net 30, Great client, pays on time
+XYZ Corp, Sarah Johnson, sarah@xyzcorp.com, (555) 987-6543, 456 Oak Avenue, Los Angeles, CA, 90001, USA, Net 15, Prefers PayPal
+Jane Smith, Jane Smith, jane@email.com, (555) 456-7890, 789 Pine Road, Chicago, IL, 60601, USA, Due on Receipt, Individual client
+Tech Startup, Mike Brown, mike@techstartup.io, (555) 321-0987, 321 Tech Lane, San Francisco, CA, 94102, USA, Net 30, Monthly retainer client
+Creative Agency, Lisa Wong, lisa@creativeagency.com, (555) 654-3210, 654 Design Blvd, Austin, TX, 78701, USA, Net 30, Referral from John
+, , , , , , , , , , ,
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+CLIENT STATISTICS, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Total Clients: [COUNT Formula], , , , , , , , , , 
+Active Clients (with transactions): [COUNT Formula], , , , , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+PAYMENT TERMS BREAKDOWN, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Payment Term, Number of Clients, , , , , , , , , 
+Due on Receipt, [COUNTIF Formula], , , , , , , , , 
+Net 15, [COUNTIF Formula], , , , , , , , , 
+Net 30, [COUNTIF Formula], , , , , , , , , 
+Net 60, [COUNTIF Formula], , , , , , , , , 
+Custom, [COUNTIF Formula], , , , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+CLIENT REVENUE SUMMARY, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+Client Name, Total Revenue, Number of Projects, Average Project Value, Last Project Date, , , , , , 
+[Client 1], [SUMIF from Income], [COUNTIF], [Formula], [MAXIF], , , , , , 
+[Client 2], [SUMIF from Income], [COUNTIF], [Formula], [MAXIF], , , , , , 
+[Client 3], [SUMIF from Income], [COUNTIF], [Formula], [MAXIF], , , , , , 
+[Client 4], [SUMIF from Income], [COUNTIF], [Formula], [MAXIF], , , , , , 
+[Client 5], [SUMIF from Income], [COUNTIF], [Formula], [MAXIF], , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+TIPS FOR CLIENT MANAGEMENT, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+✓ Keep contact info up to date, , , , , , , , , , 
+✓ Note payment preferences in Notes column, , , , , , , , , , 
+✓ Track communication history in Notes, , , , , , , , , , 
+✓ Set appropriate payment terms per client, , , , , , , , , , 
+✓ Review client revenue quarterly to identify top clients, , , , , , , , , , 
+, , , , , , , , , , ,
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+, , , , , , , , , , ,
+PAYMENT TERMS OPTIONS: Due on Receipt, Net 15, Net 30, Net 60, Custom, , , , , , ,
